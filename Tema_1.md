@@ -17,5 +17,9 @@
 ## 2.3 Создание нового репозитория
 ![image](Pictures/3.png)
 ![image](Pictures/4.png)
+
 ## 2.4 Подготовка файла
 ![image](Pictures/5.png)
+
+## 2.5 Подготовка файла
+![image](Pictures/6.png)
