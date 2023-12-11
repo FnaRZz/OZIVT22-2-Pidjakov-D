@@ -1,4 +1,4 @@
-# Тема 5. Базовые коллекции: множества, списки
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/c79f2699-3f40-4c59-8e4f-9d962b781e18)# Тема 5. Базовые коллекции: множества, списки
 Отчет по Теме #5 выполнил(а):
 - Пиджаков Дмитрий Сергеевич
 - ОЗИВТ(ППК)-22-2-у
@@ -38,7 +38,7 @@ set_2 = {'Red', 'Green', 'Blue', 'Red'}
 print('3', set_1 - set_2)
 ```
 ### Результат.
-![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/800abd6a-d44e-44c2-96e8-b89580e67104)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/6e604748-3ed2-47e9-8c2d-181912634d83)
 
 ## Выводы
 
@@ -55,7 +55,8 @@ for i in range(1, 5):
 print(a)
 ```
 ### Результат.
-![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/89f3bf0c-3cd1-4630-b8a2-3f76326b90b3)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/c78d3243-59ea-407d-b86d-f785ff802b92)
+
 
 ## Выводы
 
@@ -76,7 +77,7 @@ def replace(input_list):
 print(replace([1, 2, 3, 4, 5]))
 ```
 ### Результат.
-![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/d8754e78-79aa-4b1f-a099-507981f1d326)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/08027d71-54cf-45a3-a9b7-56a310f79caa)
 
 ## Выводы
 
@@ -91,7 +92,7 @@ a = [12, 54, 32, 57, 843, 2346, 765, 75, 25, 234, 756, 23]
 print(a[2:6])
 ```
 ### Результат.
-![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/54c4f584-003e-4f54-9fa7-7122d03c037e)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/59880aa3-68cd-42ef-b3f9-49039ed51570)
 
 
 ## Выводы
@@ -112,8 +113,7 @@ print(useless([-12.5, 54, 77.3, 0, -36, 98.2, -63, 21.7, 47, -89.6]))
 print(useless([-25.8, 86, 12.5, -56, 73.2, 0, 43, -91.5, 65.9, -7]))
 ```
 ### Результат.
-![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/f56baed7-67af-4747-862b-b29e5335cfd2)
-
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/81437aaf-8d0d-49ba-8e5e-b16f0f411efa)
 
 ## Выводы
 
@@ -132,7 +132,7 @@ print('Василий - ', vasiliy)
 print('Иван - ', ivan)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/30c71a1c-874e-4ed9-a82e-b748265b3151)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/0b7ec4b5-69fa-4725-aadf-3aacc8d3b658)
 
 ## Выводы
 Сделали программу где работает else в цикле.
@@ -148,7 +148,7 @@ a.pop(0)
 print('Отсортированный список без наименьшего элемента:\n', a)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/62679f03-5f18-4899-bfff-d27a0f5387c8)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/4fdbba30-1a4c-47a2-9f83-334abcb95adc)
 
 ## Выводы
 Сделали программу которая наглядно демонстрирует как работает цикл for проходя в обратном прорядке.
@@ -173,7 +173,7 @@ if __name__ == '__main__':
     print(result)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/9b49ab7f-9342-4c4a-8b37-be61d30ef7f5)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/1d6bf6da-aeb0-4461-8c71-9744fc1c518d)
 
 
 ## Выводы
@@ -202,7 +202,7 @@ if __name__ == '__main__':
     superset({90, 100}, {3, 5})
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/de9a3733-e001-42af-b5c7-5d663b789182)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/563f6920-93da-43a7-9cba-07f4e8e1d0bf)
 
 ## Выводы
 
@@ -216,7 +216,7 @@ my_list = [2, 5, 8, 3]
 print(my_list[::-1])
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/c61ea003-2fb8-49b0-89d4-ee08e56ad3fe)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/50632262-79cc-4357-a350-7f0f9b85e666)
 
 ## Выводы
 Был дан список который нам нужно было сделать в обратном порядке, мы его успешно перевернули.
@@ -249,7 +249,7 @@ print("Количество разных людей:", b)
 print("Самым часто посещавший работник:", c)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/44efac1f-f540-4623-9cf1-c7b18f397208)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/516ba3e8-8df8-4909-96a4-4a845e502d75)
 
 ## Выводы
 Вывели сколько выдали чеков,сколько посетило разных людей и кто часто посещал из работников."
@@ -272,7 +272,7 @@ from_ten = sorted_results[9:]
 print("Все результаты начиная с 10:", from_ten)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/7b785b69-ea79-43ad-981c-20ba53fc4a7f)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/af944598-ffa6-4824-a2d6-3b058a4d9caf)
 
 ## Выводы
 
@@ -299,7 +299,7 @@ min_area = (one_min + two_min - three_min) ** 0.5
 print(f"Максимальная площадь: {max_area}\nМинимальная площадь: {min_area}")
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/3b5de022-1147-4aea-975d-83b625facb0c)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/41b8ea43-8e3d-483f-b459-0326e4095969)
 
 ## Выводы
 
@@ -341,7 +341,8 @@ print(updated_grades3)
 
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/1b06bcdc-2331-4b4b-80d6-df5ba8dc1de9)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/39c8b7dc-26be-43b6-a6c3-64c022187729)
+
 
 
 ## Выводы
@@ -372,7 +373,7 @@ print(create_set(list_2))
 print(create_set(list_3))
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/419a1bea-253e-4709-a46b-0390a7c2df9e)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/d9880356-61e7-4d93-ad71-8632d2dc3636)
 
 ## Выводы
 Сформировали множества по правилу с преобразованием числа если будет повтор.
