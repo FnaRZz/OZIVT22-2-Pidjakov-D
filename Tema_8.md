@@ -1,6 +1,6 @@
 # Тема 8. Основы объектно-ориентированного программирования
 Отчет по Теме #8 выполнил(а):
-- Деревянкин Владислав Владимирович
+- Пиджаков Дмитрий Сергеевич
 - ОЗИВТ(ППК)-22-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -56,8 +56,7 @@ my_car = Car("audi", "r8") #экземпляр класса Car
 my_car.drive() # Для запуска
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/d7634aba-9638-49bb-a9c8-a76600dcc9b1)
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/a4cdcd03-6348-4cff-9675-297a0cbe7041)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/caa51687-a9ac-42eb-98f5-5553f3dec81e)
 
 
 ## Выводы
@@ -87,7 +86,7 @@ my_electric_car = ElectricCar("CyberTrack", "S", 50) #Создание экзе�
 my_electric_car.charge() # запуск второго действия
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/18c4db07-b538-49aa-a91e-669ee14784fb)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/ad23be9d-a403-4027-8be6-22045e48e25e)
 
 ## Выводы
 
@@ -110,7 +109,7 @@ print(my_car._make)
 my_car.drive()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/7a12f903-e57c-48e4-837c-a1fa2ed6c6b9)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/422f9533-cc94-467b-b619-31fac1efec4a)
 
 
 ## Выводы
@@ -144,7 +143,8 @@ for shape in shapes: #делаем цикл чтобы пройтись по к�
     print(shape.area()) #выводим ответ в консоль
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/70ff8ec2-5e80-4551-bb9f-63e977b3357a)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/ad0523c9-0a3f-42c6-896a-91ea486fabf8)
+
 
 ## Выводы
 
@@ -164,12 +164,11 @@ class vn:
     def print_s (self):
         print(f"game {self.Name} {self.janr} {self.score} {self.prodoljitelnost}")  # просто нужен для вывода
 
-vndb = vn('Everlasting Summer','eroge','7.16','25hr')
+vndb = vn('Escape From Tarkov','Extraction Shooter','10/10','999999999Hr')
 vndb.print_s() # Для запуска первого действия
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/bd313674-ed0f-4947-b350-4927696b455a)
-
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/a8909a8b-a102-4bc6-9808-a7491adea011)
 
 Сделали свой класс, атрибутами с выводом результата
 
@@ -209,7 +208,7 @@ class Everlasting_Summer:
 
     def print_s (self):
         print(f"game {self.janr} {self.score} {self.prodoljitelnost}")  # просто нужен для вывода
-ruvn = Everlasting_Summer('eroge','7.16','25hr')
+ruvn = Everlasting_Summer('Looter Shooter','7.16','25hr')
 ruvn.print_s() # Для запуска первого действия
 class vn(Everlasting_Summer):
     def __init__(self,janr, score, prodoljitelnost,name):
@@ -223,7 +222,7 @@ vndb = vn("sedze-ai,ury", "8.15", "20hr", 'Flowers -Le volume sur ete-')
 vndb.credo()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/5237abbf-50cd-4e00-85a8-3982e9d84408)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/2036404d-5cee-41bb-b59b-8af548b68586)
 
 ## Выводы
 
@@ -240,11 +239,11 @@ class Everlasting_Summer:
 
     def print_s (self):
         print(f"game {self._janr} {self.__score} {self.___prodoljitelnost}")  # просто нужен для вывода
-ruvn = Everlasting_Summer('eroge','7.16','25hr')
+ruvn = Everlasting_Summer('Looter Shooter','7.16','25hr')
 ruvn.print_s() # Для запуска первого действия
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/5246e867-d1e6-4237-a51d-e095eb1e3ba7)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/237294ae-6299-4c83-a4b7-319bf29f29b9)
 
 ## Выводы
 
