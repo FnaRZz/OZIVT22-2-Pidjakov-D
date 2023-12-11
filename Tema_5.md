@@ -1,6 +1,6 @@
 # Тема 5. Базовые коллекции: множества, списки
 Отчет по Теме #5 выполнил(а):
-- Деревянкин Владислав Владимирович
+- Пиджаков Дмитрий Сергеевич
 - ОЗИВТ(ППК)-22-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -38,7 +38,7 @@ set_2 = {'Red', 'Green', 'Blue', 'Red'}
 print('3', set_1 - set_2)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/bc5715e4-5dfa-4a30-8ae8-90eaf6837b5c)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/800abd6a-d44e-44c2-96e8-b89580e67104)
 
 ## Выводы
 
@@ -55,8 +55,7 @@ for i in range(1, 5):
 print(a)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f993d822-48bf-4c30-8b1b-a7b141b59764)
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f5983e6a-415b-4939-b52f-6576c881aaa0)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/89f3bf0c-3cd1-4630-b8a2-3f76326b90b3)
 
 ## Выводы
 
@@ -77,7 +76,7 @@ def replace(input_list):
 print(replace([1, 2, 3, 4, 5]))
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/228bc2c8-1b7e-4a98-a74f-1ea52beac294)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/d8754e78-79aa-4b1f-a099-507981f1d326)
 
 ## Выводы
 
@@ -92,7 +91,8 @@ a = [12, 54, 32, 57, 843, 2346, 765, 75, 25, 234, 756, 23]
 print(a[2:6])
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/c99de61a-5095-45d5-b23c-a2b03b61a660)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/54c4f584-003e-4f54-9fa7-7122d03c037e)
+
 
 ## Выводы
 
@@ -112,7 +112,7 @@ print(useless([-12.5, 54, 77.3, 0, -36, 98.2, -63, 21.7, 47, -89.6]))
 print(useless([-25.8, 86, 12.5, -56, 73.2, 0, 43, -91.5, 65.9, -7]))
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/fd111c68-704a-4d19-8308-7a1a27ac7828)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/f56baed7-67af-4747-862b-b29e5335cfd2)
 
 
 ## Выводы
