@@ -1,6 +1,6 @@
 # Тема 6. Базовые коллекции: словари, кортежи
 Отчет по Теме #6 выполнил(а):
-- Деревянкин Владислав Владимирович
+- Пиджаков Дмитрий Сеергевич
 - ОЗИВТ(ППК)-22-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -43,7 +43,7 @@ access = response.get('access')
 print(key, access)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/e1187a5a-f566-44e5-bba6-fcd01c6bb417)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/ce7db731-bad8-491e-a729-6fcf4153b0ab)
 
 ## Выводы
 
@@ -64,7 +64,7 @@ dict_maker(name='Вадим', age=22, weight=92, eyes_color='green')
 pprint(my_dict)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/54095868-45de-452b-9120-5c1b189d4e02)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/b383cad2-3a7f-41cc-8277-229600b37f2b)
 
 ## Выводы
 
@@ -81,7 +81,7 @@ print(list(result))
 ```
 
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/e802e943-40ec-4314-81d6-18e6031a1186)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/4177c6cf-8533-4a3f-ac06-9ced38a03cb5)
 
 
 
@@ -103,7 +103,7 @@ bob = ("Григорий", 41, "Yandex")
 personal_info(*bob)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/97de59f3-297e-42be-966f-0c2703bc869b)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/b56df081-3863-4eba-bd24-2410711d7ab6)
 
 
 ## Выводы
@@ -126,7 +126,7 @@ if __name__ == '__main__':
     print(tuple_sort((5, 5, 2.1, '1', 9)))
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/3842c297-f86a-4cc8-ac7f-86c55b613af0)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/0cef0c00-217c-415f-886c-120d38f85735)
 
 ## Выводы
 
@@ -145,7 +145,7 @@ print(f"Список: {numbers_list}")
 print(f"Кортеж: {numbers_tuple}")
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/b1c7b2a0-f946-4ccc-a30e-4e6523fd43c3)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/7addc336-e9da-4c33-9475-f4d9bf4fd45e)
 
 
 ## Выводы
@@ -182,7 +182,7 @@ for tuple, element in test_cases:
     print(f"{tuple=}, обновленный: {modified_tuple}")
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/260d849b-e820-4945-a7f7-42feb17cc1d0)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/8dc59dec-ba78-4410-9822-e6248bc897cf)
 
 
 ## Выводы
@@ -207,7 +207,7 @@ for digit in sorted(result.keys()):
     print(f"Число {digit}: {result[digit]} раз(a)")
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f804c5df-33a9-4217-a0a0-124be871c637)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/477a00d2-6707-4e41-ae8f-f0bf2be4904d)
 
 ## Выводы
 
@@ -238,7 +238,7 @@ print(employee_movement((1, 8, 3, 4, 8, 8, 9, 2), 8))
 print(employee_movement((1, 2, 8, 5, 1, 2, 9), 8))
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/aa19b0fa-cc2f-45ed-8ae9-b69a019bb3b3)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/6c83718a-9092-4543-b5e7-caa20f3b8684)
 
 ## Выводы
 
@@ -259,7 +259,7 @@ print(find_max_element([-1, -2, -3, -4, -5]))  # ожидаемый резуль
 print(find_max_element([10, 3, 7, 15, 2]))  # ожидаемый результат: 2
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/cc20c706-ee2e-4cac-8f98-c469a6bce07f)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/7f89acb4-2911-49da-8b65-d319b50a453a)
 
 ## Выводы
 Сделал простенькую задачу на нахождение минимума из списка.Также сделал три теста чтобы убедиться в роботоспособности.
