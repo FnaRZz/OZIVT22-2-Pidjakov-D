@@ -1,6 +1,6 @@
 # Тема 2. Базовые операции языка Python
 Отчет по Теме #2 выполнил(а):
-- Деревянкин Владислав Владимирович
+- Пиджаков Дмитрий Сергевич
 - ОЗИВТ-23-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -30,7 +30,7 @@ print('123')
 print(1.23)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/a28f0447-ca97-4a94-b3d9-a6ef39fae911)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/2354f9f4-f472-444a-b0a9-08a54c60cd7f)
 
 ## Выводы
 
