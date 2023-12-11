@@ -1,6 +1,6 @@
 # Тема 9.ООП Концепции, принципы 
 Отчет по Теме #9 выполнил(а):
--Деревянкин Владислав Владимирович
+-Пиджаков Дмитрий Сергеевич
 - ОЗИВТ(ППК)-22-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -41,7 +41,7 @@ print(person2.name)
 ```
 
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/92732983-83c5-4b37-a523-ec51c64a2b5e)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/ab47a7ba-da94-4089-b5d8-2d71b3e8277f)
 
 ## Выводы
 побаловались с условием в классах.
@@ -71,11 +71,9 @@ icecream = Icecream(5)
 icecream.composition()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/19f2c16a-59ac-4bed-88c5-3dc753684502)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/1164cbdf-7248-447f-9dba-24a447af2865)
 
 
-## Выводы
-изи -_-
 
 ## Лабораторная работа №3
 ### Петя – начинающий программист и на занятиях ему сказали реализовать икапсу…что-то. А вы хороший друг Пети и ко всему прочему прекрасно знаете, что икапсу…что-то – это инкапсуляция, поэтому решаете помочь вашему другу с написанием класса с инкапсуляцией. Ваш класс будет не просто инкапсуляцией, а классом с сеттером, геттером и деструктором. После написания класса вам необходимо продемонстрировать что все написанные вами функции работают. Также вас необходимо объяснить Пете почему на скриншоте ниже в консоли выводится ошибка.
@@ -106,7 +104,7 @@ obj.del_value()
 print(obj.get_value())
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/90edce9f-face-4756-8ac0-f1a3ed9acc45)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/750ea4c3-44a1-4e83-a9bd-28f1b2c3c774)
 
 
 ## Выводы
@@ -133,7 +131,7 @@ cat = Cat()
 print(f"Cat is {cat.className}, but they say {cat.sounds}")
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/e5e32fdb-9101-4f5c-9478-c95588ef6955)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/32ac10ef-257f-4260-ae0c-aa21d1ac2aeb)
 
 
 ## Выводы
@@ -163,12 +161,7 @@ john = English()
 greet(john)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f82801d4-a616-4084-a36d-bab33bffd13e)
-
-
-## Выводы
-
-Сделали полиморфизм
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/d298836a-c824-4e4f-8703-5011f3ac97ea)
 
 ## Самостоятельная работа №1
 ### Задание:
@@ -266,9 +259,7 @@ gardener.work()
 print(gardener.harvest())
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/e4df4249-f19e-48e3-b69d-b096bd952f0f)
-
-
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/5d992def-89ce-45e5-83f2-0100fe61968f)
 
 В данном коде мы делали постоянные проверки через классы и атрибуты.
 
