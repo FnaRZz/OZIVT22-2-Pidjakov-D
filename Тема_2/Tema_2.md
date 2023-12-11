@@ -51,7 +51,7 @@ print(3 + 5.4 + 2 + 5.33)
 ```
 - Оформленный код
 - ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/6a0086af-1e17-4f13-82cf-b0a2d513e6f0)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/108fabff-f302-46ed-82a1-8d8585f44e0d)
 
 ### Выводы
 Изучили вывод в консоль результат сложения или вычитания минимум двух переменных разных типов.
@@ -69,7 +69,7 @@ two = 'Мир!'
 print (one + two)
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f20a5bff-6ef5-413c-82a0-f93ade872e57)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/391440df-7c93-43b3-a6e7-98f4c4c7fabe)
 
 ### Выводы
 Изучили вывод в консоль три строки различными способами.
@@ -87,7 +87,8 @@ three = None
 print (str(three))
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/5fb650a6-aa1b-4211-a85d-ab66e915c7c6)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/851834d8-e3a6-4ad2-b2d8-3f20c99add80)
+
 
 ### Выводы
 Изучили вывод трёх строк при помощи трансформации переменных с одного типа в другой.
@@ -101,7 +102,8 @@ three = input('three:')
 print (one,two, three)
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/7dc9c7bb-a8d4-45d6-a735-c82a06b06607)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/1127343d-0738-40c3-a875-7c4329f062f8)
+
 
 ### Выводы 
 Присвоили трём переменным различные значения, воспользовавшись функцией `input()`
@@ -117,7 +119,8 @@ print ('Целочисленное деление:', a // b)
 print ('Нахождение остатка от деления:', a % b)
 ```
 ### Результаты
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f2efda77-7826-462c-acd0-736052849836)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/465d97a1-7ded-4dc4-81d1-da4b7c39f509)
+
 ### Выводы
 Создали две любые числовые переменные и провели над ними несколько математических операций.
 
@@ -128,7 +131,7 @@ line = 'Hello!'
 print (line * 6)
 ```
 ### Результаты
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/5d7965d4-028b-48ca-8161-63b8871f5956)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/4d3c8cf8-8303-4730-8dd8-5b8393d84f43)
 
 ### Выводы
 сСоздали любую строковую переменную и провели на дней математическое действие умножение на любое число.
@@ -140,7 +143,7 @@ sentence = 'Hello World'
 print (sentence.count('o'))
 ```
 ### Результаты
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/3128f9fb-db48-4766-bee6-29c26bfa9742)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/83c152d0-d6fe-42f8-bf4f-3ba40052ed96)
 
 ### Выводы
 Посчитали сколько раз 'о' употреблялось в строке 'Hello World'
@@ -151,7 +154,7 @@ print (sentence.count('o'))
 print('Hello\nWorld')
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/7612fd10-af22-4d92-9c5c-3d702afe4fff)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/07ea8a14-0298-4a0c-8320-e628caccb302)
 
 ### Вывод
 Вывели 'Hello World' в две строки используя одну строку в редактуре кода.
@@ -164,7 +167,8 @@ print (sentence[1])
 print(sentence[:5])
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/65d62a3c-5280-49d4-87b1-d46a962ffa51)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/364f152b-b0f9-4fe6-9e27-9c625f32de4a)
+
 
 ### Вывод
 Из предложения смогли вывести определенные символы и слова.
@@ -174,7 +178,7 @@ print(sentence[:5])
 ```python
 print (2 + 3 == 4)
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f7bc617b-559d-4a0e-b1b0-5f8a25e54efd)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/2a4e8880-c63c-4bfe-a21f-1a7e119c1460)
 
 ### Вывод
 Вывели в консоль булевую переменную False, не используя его как слово в строке или присвоенную булевую переменную.
@@ -185,7 +189,7 @@ print (2 + 3 == 4)
 r = g = b = 5
 print (r,g,b)
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/d6d3f941-91d0-43ad-833a-ec0ef344d131)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/3f869198-1d53-4fbb-ac31-c35d31c39ba7)
 
 ### Вывод
 Присвоили значения трём переменным и вывели их в консоль, используя две строки редактора кода.
@@ -195,7 +199,7 @@ print (r,g,b)
 ```python
 int(input())
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/c6292812-794f-4fb0-ba6b-4e3b85395b7a)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/31e467d0-9a7a-44c8-b9c8-dd7de64db180)
 
 ### Вывод
 Реализовали ввод данных в программу, через консоль, в виде только целых чисел (при буквах выдает ошибка в консоле).
@@ -206,7 +210,8 @@ int(input())
 b = "приве"
 print (b+'dsadeqwqweqweqweqwe')
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/1894bec7-c64e-46a5-a97c-4aedc183317f)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/66b946a9-7912-4d19-b967-ba4efbbba78a)
+
 
 ### Вывод
 Создал одну строковую переменную и в следующей строке добавил в `print` дополнительные символы к переменной.
@@ -219,7 +224,7 @@ month = "Октябрь"
 year = 2003
 print(f"Сегодня {day} {month} {year}.", end=" Всего хорошего!")
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/c55de8d6-4c9d-4c45-bd10-a7745584593f)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/57fa021b-8550-47aa-9a9a-de0c7ebc943f)
 
 ### Вывод
 Зачем заморачиваться над созданием трем переменных под разными типами данных если можно просто их в разных строка написать, и потом просто вывести по заданию.
@@ -230,7 +235,7 @@ print(f"Сегодня {day} {month} {year}.", end=" Всего хорошего
 p = "my"
 print ("Hello " + p + ' World')
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/e01377c9-87ad-4c22-97d6-5c7a2e9617b8)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/c67c9616-3aa2-4fda-ad3f-531546b96e30)
 
 ### Вывод
 Не было сказано что само предложение находиться в переменной.
@@ -240,7 +245,7 @@ print ("Hello " + p + ' World')
 ```python
 print (len(("Hello World")))
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/55f8ef74-4294-4f99-b475-46de74e9f5c0)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/af390faa-3e04-4dff-905b-eefd426af73a)
 
 ### Вывод
 Узнали длину предложения "Hello World" включая пробел.
@@ -251,7 +256,7 @@ print (len(("Hello World")))
 w = 'Hello World'.lower()
 print (w)
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/cb9072cb-2959-4085-9a10-84864c71df0c)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/36d0af2d-5b49-4867-9c94-b1b409356e1a)
 
 ### Вывод
 Перевели предложение в нижний регистр.
@@ -261,7 +266,7 @@ print (w)
 ```python
 print(4 ** 4 ** 4)
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/045f935b-6162-47e3-9861-2d34260feb8c)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/cd53b28b-b143-4d71-bd7c-42638fdfd340)
 
 ### Вывод
 Привели самое большое значение из числе 4,4,4.
@@ -272,7 +277,7 @@ print(4 ** 4 ** 4)
 st = 'LAMOSTS'
 print(st[0:3])
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/289864d7-ecb4-4324-b6aa-c9b034448037)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/a61bb2b2-c93c-416b-adac-9e518b129ab4)
 
 ### Вывод
 Сделали любой срез в предложении LAMOSTS и вывели это в консоли.
