@@ -1,6 +1,6 @@
 # Тема 11. Итераторы и генераторы.
 Отчет по Теме #11 выполнил(а):
-- Деревянкин Владислав Владимирович
+- Пиджаков Дмитрий Сергеевич
 - ОЗИВТ(ППК)-22-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -31,7 +31,7 @@ for item in numbers:
 ```
 
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/19f6d095-2485-4edf-aa72-96d3f5575a97)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/164f1d43-0782-401d-90ce-e1ef56169207)
 
 ## Выводы
 Создали простой итератор без гибкой настройки.
@@ -59,7 +59,7 @@ if __name__ == '__main__':
         print(i)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/5cd14842-8746-452b-aa57-68023eb68db7)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/bbe25241-ba2e-48ae-b2d3-73d58877fb6c)
 
 
 ## Выводы
@@ -81,7 +81,7 @@ for i in a:
     print(i)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/665d9f6d-932e-47e9-8d35-b2da323d013d)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/aca8b4cb-19c0-42ee-8012-6e6cecb35aa1)
 
 
 ## Выводы
@@ -102,7 +102,7 @@ for i in b:
     print(i)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/2ae33749-aa45-45a1-a8ed-f6c259067804)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/2d6f8ebe-b8cd-425b-a353-7126e4f240e1)
 
 
 ## Выводы
@@ -123,7 +123,7 @@ if __name__ == '__main__':
         print(i)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/bf93f9d1-fd29-445f-9b93-c7643ab421f4)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/b70d7723-99cb-411f-b13a-db0d68ff874f)
 
 
 ## Выводы
@@ -142,7 +142,7 @@ for number in fib(200):
     print(number)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/57054fb5-f968-44dd-8559-49f698575f11)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/979b3423-2a33-43b3-91fc-6a8ac6ffda0f)
 
 ## Выводы
 Сделали вывол в консоль с числом Фибоначчи
@@ -173,8 +173,7 @@ def write_fibs_to_file(n):
 write_fibs_to_file(200)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/23703ac5-5584-4f0a-b615-6335e7adf621)
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/3628f53d-ba1b-4f19-9f36-9bba6b830844)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/228adfe0-bbfd-44b3-95cd-d6cde01bfb73)
 
 ## Выводы
 
