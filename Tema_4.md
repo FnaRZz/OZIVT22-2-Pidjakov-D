@@ -1,6 +1,6 @@
 # Тема 4. Функции и стандартные модули/библиотеки.
 Отчет по Теме #3 выполнил(а):
-- Деревянкин Владислав Владимирович
+- Пиджаков Дмитрий Сергеевич
 - ОЗИВТ(ППК)-22-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     main()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/8fb11260-0865-4b11-beb5-496e9adfa926)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/be3f1c27-b2e4-4a35-82b4-cbcc6d7722f5)
 
 ## Выводы
 В данном коде выводятся одна строки с использованием функции `main()`.
@@ -50,7 +50,7 @@ if __name__ == '__main__':
     print(b)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/dd828852-2452-421a-a474-c28aa73a902e)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/f87f8d8a-5faf-4c83-a0de-6bb6f4fe28f5)
 
 
 ## Выводы
@@ -68,7 +68,7 @@ for c in range(5):
     print(d)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/eb534b5d-e35e-440f-8dce-16e68baf3e09)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/af7b2bbf-4beb-4a33-9a3a-1485b2537589)
 
 ## Выводы
 
@@ -92,7 +92,7 @@ if __name__ == '__main__':
     print(f"\nresult={result}")
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/8d6a7124-ebbb-4428-a1ae-ade59a45738d)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/5ae3b1f2-335a-4d91-a6b7-ce93e20f0269)
 
 ## Выводы
 
@@ -117,7 +117,7 @@ if __name__ == '__main__':
     main(**{'x': [1, 2, 3], 'y': [3, 3, 0]})
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/405e8db9-da13-4d5e-b9d3-91fd526288bc)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/e03e029d-a23b-490b-a0cc-4269eb9765f6)
 
 ## Выводы
 
@@ -138,7 +138,7 @@ if __name__ == '__main__':
     main(x=[1, 2, 3], y=[3, 3, 0])
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/88a6ae1f-ff06-4bb3-b451-2da2f00414f4)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/3f1fb4c2-ab69-4214-b758-b8499fd2c278)
 
 ## Выводы
 
@@ -157,7 +157,7 @@ if __name__ == '__main__':
     say_hello()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/3072ee06-ad78-424d-8198-d308a16dcb86)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/25ef148b-9a96-440b-ad2d-656d9f6a8517)
 
 
 ## Выводы
@@ -180,7 +180,7 @@ if __name__ == '__main__':
     main()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/ed55557b-b6f5-4db8-89e1-c135a5fa87c5)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/1a1b5ac5-0156-49d5-91a8-72c5ccf22a3f)
 
 ## Выводы
 
@@ -210,7 +210,7 @@ if __name__ == '__main__':
     main()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/6facb185-ac29-443d-a492-d30f343ba787)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/20f77b7d-2a9d-4bc3-9c62-b8f4e4f3886e)
 
 ## Выводы
 
@@ -242,7 +242,7 @@ elif figure == '2':
 print(f"Площадь: {result}")
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/4b4a3f38-4a80-496c-b81f-d8326db8415e)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/f7b76183-0b0f-4809-b0f1-197da56f9952)
 
 ## Выводы
 
@@ -270,9 +270,7 @@ if __name__ == "__main__":
     main(args) #Вызываем функцию main с аргументом args – списком координат точек
     print('--- %s секунд ---' % (datetime.now() - start_time)) #Вывод на экран сколько времени заняло выполнение программы
 ```
-### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/7719c81e-2b8e-486f-9ea2-32cff2dd1980)
-
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/cbb9d924-bb30-4bb1-ae0a-565fb9622798)
 
 ## Выводы
 В большом коде сделали комментирование чтобы код был более понятным.
@@ -295,8 +293,7 @@ def dice_roll():
 dice_roll()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/0f4f2524-d5f9-4dbc-9d14-7937fdc77c84)
-
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/5fc610fd-4892-48d8-adae-b2f0746556b9)
 
 ## Выводы
 
@@ -321,7 +318,7 @@ for _ in range(5):
 print("Программа выполнялась", elapsed_time, "секунд")
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/b2016cba-3b1e-477c-a35b-53f550fe486f)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/7d9ae460-88e6-415a-996b-a433730bf750)
 
 ## Выводы
 
@@ -342,7 +339,7 @@ if __name__ == "__main__":
    print(mean(1, 2 , 3))
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/19bddb64-7d5d-4e31-a364-10d75778dc0a)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/7ee36ab1-b5b8-4b76-9874-3a39333bb08e)
 
 ## Выводы
 Написали программу которая считает среднее арифметическое от аргументов вызываемое функции.
@@ -376,9 +373,6 @@ area = s5_1(a, b, c)
 
 print("Площадь треугольника: ", area)
 ```
-### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/855b403a-908a-4de2-9e03-7d2d26df3e01)
-
 ## Выводы
 
 Создали программу где вычисляется площать треугольника с помощью формулы Герона.Сделано с помощью двух Python файлов.
