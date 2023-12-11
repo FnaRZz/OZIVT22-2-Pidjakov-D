@@ -1,6 +1,6 @@
-# Тема 10. Декораторы и исключения
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/0f6e6497-e195-4f29-aff8-8fe8d1983a1a)# Тема 10. Декораторы и исключения
 Отчет по Теме #10 выполнил(а):
-- Деревянкин Владислав Владимирович
+- Пиджаков Дмитрий Сергеевич
 - ОЗИВТ(ППК)-22-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -41,7 +41,7 @@ if __name__ == '__main__':
 ```
 
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/c65bbea9-f90c-46e6-b659-4e627f7cf06b)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/79b177de-0360-414e-9d93-52aa50dc7544)
 
 
 ## Выводы
@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/606bd3e6-b8aa-4a9a-be3f-8faab5e22a02)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/f35f0b00-7e77-4212-a644-1da6f118bd85)
 
 ## Выводы
 
@@ -99,7 +99,7 @@ if __name__ == '__main__':
     data([1, 15, 'Hello', 'i', 'try', 'to', 'crash', 'your', 'site', 38, 45])
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/8d79ef87-523e-461d-84e2-e89e9f00fc12)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/e9a8a8fc-c3c2-4da8-94ad-2c75d496f4ef)
 
 ## Выводы
 
@@ -123,12 +123,11 @@ if __name__ == '__main__':
     check_name(name)
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/ade3ff17-cad6-4d33-bd71-1f58a092b3c3)
-
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/a4dc8bd3-ed3a-4160-bc5d-009474a55e81)
 
 ## Выводы
 
-теперь уже обработчик исключений.
+Теперь уже обработчик исключений.
 
 ## Лабораторная работа №5
 ### После запуска сайта вы поняли, что вам необходимо добавить логгер, для отслеживания его работы. Готовыми вариантами вы не захотели пользоваться, и поэтому решили создать очень простую пародию. Для этого создали две функции: __init__() (вызывается при создании класса декоратора в программе) и __call__() (вызывается при вызове декоратора). Создайте необходимый вам декоратор. Выведите все логи в консоль.
@@ -155,7 +154,7 @@ if __name__ == '__main__':
     print('>> Сайт выключен')
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/6fe05537-1367-4725-8dd0-eb0a1f3ad0c9)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/d45d6fe7-2f34-45fa-b749-f7cce5b8d0d5)
 
 
 ## Выводы
@@ -189,7 +188,7 @@ if __name__ == '__main__':
     fibonacci()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/4089bea9-fb19-4c55-8aad-14e5bebeddde)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/3f53a373-2f25-4946-ad56-6209bee84237)
 
 ## Выводы
 
@@ -227,7 +226,7 @@ print("\nПопытка чтения непустого файла:")
 read_file('non_empty_file.txt')
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/0265c75e-876a-4017-923d-aebb4e13e1d9)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/8c243c8d-eea7-4c5d-b4bc-7dfcfe1ac810)
 
 ## Выводы
 
@@ -250,7 +249,7 @@ add_two_and_input()
 add_two_and_input()
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/478a91a1-57a1-47b5-8402-73d078ab4ba7)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/78973eaf-dd62-4fb1-ae8f-bab205802a45)
 
 
 ## Выводы
@@ -283,7 +282,7 @@ result_product = multiply_numbers(4, 5)# данные
 print(f"Результат умножения: {result_product}") # вывод в консоль
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/68248a80-487c-42bc-ab6b-8192f6f9e18a)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/a1d4c477-0146-4f2f-85a4-70fd8786a540)
 
 ## Выводы
 
@@ -320,7 +319,7 @@ except CustomException as e:
     print("Ошибка:", str(e))
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f03341b6-05d7-4ebe-b114-e8bc8f543e6d)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/6d75d70c-80d9-43c7-8302-34a02c958c98)
 
   
 ## Выводы
