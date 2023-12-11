@@ -1,6 +1,6 @@
 # Тема 3. Базовые операции языка Python
 Отчет по Теме #3 выполнил(а):
-- Деревянкин Владислав Владимирович
+- Пиджаков Дмитрий Сергеевич
 - ОЗИВТ-23-2-у
 
 | Задание | Лаб_раб | Сам_раб |
@@ -10,11 +10,11 @@
 | Задание 3 | + | + |
 | Задание 4 | + | + |
 | Задание 5 | + | + |
-| Задание 6 | + | - |
-| Задание 7 | + | - |
-| Задание 8 | + | - |
-| Задание 9 | + | - |
-| Задание 10 | + | - |
+| Задание 6 | + | + |
+| Задание 7 | + | + |
+| Задание 8 | + | + |
+| Задание 9 | + | + |
+| Задание 10 | + | + |
 
 знак "+" - задание выполнено; знак "-" - задание не выполнено;
 
@@ -33,7 +33,7 @@ else:
     print('Не Выполняется')
 ```
 ### Результат.
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f6cbc7f5-9c17-4891-9cb3-141eeb226781)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/ce7d53f2-46c8-46f4-8052-733506c9beda)
 
 ## Выводы
 
@@ -52,7 +52,7 @@ else:
 ```
 - Оформленный код
 - ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f2ae7d16-9da8-48a8-a577-5e663bb60ea2)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/843a0384-f35f-400e-b3b3-79556c1cc3ce)
 
 
 ### Выводы
@@ -69,7 +69,7 @@ else:
     print('Переменной нет в этом массиве')
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/93d55362-2086-43c3-8c42-0b12e630d6f0)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/636c29c1-df8b-4b40-a5d3-d98fa4bc9489)
 
 
 ### Выводы
@@ -89,7 +89,7 @@ else:
     print(f"Переменной нет в массиве numbers и она равна {value}")
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/6e899973-b5cb-4d0f-92d6-f8170a487f98)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/4e2f27e6-9503-4827-acfd-d5cf842c8736)
 
 ### Выводы
 Изучили двойную проверку.
@@ -111,7 +111,7 @@ for i in range(10):
         break
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/fb5ae633-d89f-49cf-bef0-a75dd3a9cf94)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/4e841f5f-e299-4a9a-9d9b-550545a6b3a1)
 
 ### Выводы 
 Поработали с циклами `for`
@@ -130,7 +130,7 @@ else:
     print(f"Буква '{value}'нет в указанной строке")
 ```
 ### Результаты
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/6a8b94a0-a99c-4093-8d9d-8bc0ae1096e7)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/1de3dfd4-9af6-4b20-acd7-81c7036f2c37)
 ### Выводы
 Научились находить с помощью переменной совпадение в строке с помощью цикла 
 
@@ -143,7 +143,7 @@ for i in range(10,-1,-1):
     print(i, value)
 ```
 ### Результаты
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/e40064f6-574e-49c4-af7b-c57c1dbdc377)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/9787921b-7831-467e-8467-1db6e61a897f)
 
 ### Выводы
 Теперь точно разобрались с циклом `for`
@@ -162,7 +162,7 @@ while value < 100:
     print(value)
 ```
 ### Результаты
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/661e4a9c-54f2-4884-98c5-d615b1096509)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/b17912c8-efa2-4be7-b4f7-f10d775a5b27)
 
 ### Выводы
 Изучили цикл `while`.
@@ -180,7 +180,8 @@ for i in range(10):
 print(value)
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/b2f4b3a1-30e8-4eb0-906d-cfaae6782ee4)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/ddffdf46-b74a-4c32-a2de-3ecee04afa5c)
+
 
 ### Вывод
 Использовали вложенные циклы с проверками внутри них.
@@ -200,7 +201,7 @@ else:
     print ('В массиве все числа четные')
 ```
 ### Результат
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/feea986d-3f4e-4f61-9920-fc40b7646be1)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/5a525224-d89a-4068-894a-d5f845c2ec85)
 
 ### Вывод
 Использовали Flag чтобы определить нечетное число в массиве на наличие.
@@ -218,7 +219,7 @@ for _ in range(2):
     in_number += 1
 print(in_number)
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/feea8faf-43a7-4b88-8553-a70e6e825b41)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/ae6e927f-469c-4997-9dc3-2454f3e49ece)
 
 ### Вывод
 Дали условие, сделали через повторение range по 2 раза.
@@ -230,7 +231,7 @@ word = "Hello World"
 for h in reversed(word):
     print(h)
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/522baa3f-e897-4670-a2c8-a9a1c324f3f5)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/388a7eb5-7d57-4aa6-92ed-0435abfe934b)
 
 ### Вывод
 Перевернули слово "Hello World" с одной буквой на каждой строке.
@@ -252,7 +253,7 @@ elif num > 3 and num <= 6:
 elif num > 6 and num <= 10:
     print("от 6 до 10 включительно")
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/bf211063-2feb-4696-a20d-dd25d7a2df55)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/4c1442d8-6796-4afd-9ff6-154ca42860ce)
 
 ### Вывод
 Создали диаполоз по вводу числе и его пределению.
@@ -289,17 +290,14 @@ if lower_sentence.endswith("end"):
 else:
     print("Предложение не заканчивается на 'end'")
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/3aa9329a-a8f7-4529-86db-efad47c98842)
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f81add73-919d-4534-a7d1-0582c449c3b0)
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/1507f304-9e52-4187-ade9-c0ae221f7c09)
-
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/f4e5f9b4-3cf2-49ae-b9d4-21bddfb0ccf8)
 
 ### Вывод
 Cоздали для предложения написанных пользователем несколько условий
   
 ## Самостоятельная работа №5
 ### Составьте программу, результатом которой будет данный вывод в консоль:
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/ed874872-a1f2-436f-a2e5-dae27fd4caaf)
+![image](https://github.com/FnaRZz/OZIVT22-2-Pidjakov-D/assets/102352688/ca5b85d7-3fbc-4f8c-b269-0c082c208ccd)
 
 ```python
 string = 'hello'
@@ -316,7 +314,6 @@ memory = string
 string = memory
 print (memory)
 ```
-![image](https://github.com/che3ZzOfficial/Program_engineering/assets/122799788/f696ecc3-f46a-4860-b2c6-e33d893f0296)
 
 ### Вывод
 Сделал по упоротому, но условие было соблюдено и выполнено.
